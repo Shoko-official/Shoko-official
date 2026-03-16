@@ -29,7 +29,7 @@ I'm an enthusiastic student with a deep passion for Machine Learning, Data Scien
 - Core Machine Learning Algorithms (GBDT, Transformers, Neural Networks..)
 
 ---
->*I am curious, continuously learning. Whether I'm >debugging, tuning hyper-parameters for a new ML >model, or just learning,*
+>*I am curious, continuously learning. Whether I'm debugging, tuning hyper-parameters for a new ML model, or just learning,*
 
 My dream would be to work at *Google* as a Machine Learning Engineer, their project are always innovative and i would love to be a part of it.
 Thanks for reading my profile, feel free to contribute to my projects or ask me any question you may have.
