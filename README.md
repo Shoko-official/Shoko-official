@@ -1,8 +1,8 @@
 I am an enthusiastic student with a deep passion for Machine Learning, Data Science, and low-level programming. I specialize in building complex systems from absolute scratch to truly master the mechanics. As an autistic developer, I bring a unique, highly-focused perspective to problem-solving : while I thrive in deep-work environments, I view this neurodivergence as a **power**ful asset for technical innovation and am eager to contribute my dedication to your projects.
 
 I suggest you have a look at especially one of these :
-[LLM From Scratch](https://github.com/Shoko-official/LLM-From-Abs-Scratch)
-[LAFF - Linear Algebra Foundations to Frontiers](https://github.com/Shoko-official/LAFF-University-of-Texas)
+- [LLM From Scratch](https://github.com/Shoko-official/LLM-From-Abs-Scratch)
+- [LAFF - Linear Algebra Foundations to Frontiers](https://github.com/Shoko-official/LAFF-University-of-Texas)
 
 ## Major Projects & Ambitions
 
