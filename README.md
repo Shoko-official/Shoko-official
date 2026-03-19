@@ -4,6 +4,8 @@ I suggest you have a look at especially one of these :
 - [LLM From Scratch](https://github.com/Shoko-official/LLM-From-Abs-Scratch)
 - [LAFF - Linear Algebra Foundations to Frontiers](https://github.com/Shoko-official/LAFF-University-of-Texas)
 
+---
+
 ## Major Projects & Ambitions
 
 ### Artificial Intelligence & Machine Learning
